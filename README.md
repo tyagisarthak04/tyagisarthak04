@@ -13,10 +13,10 @@ willingness to learn, team player, hard worker with good communication
 skills and been a part of team mentoring activities.
 
 Programming/Scripting languages/Technologies
->> C & C++
->> JAVA
->> Python 
->> Natural Language Processing
->> Machine Learning
->> Artificial Neural Network
->> Convolutional Neural Network
+>> C & C++,
+>> JAVA,
+>> Python, 
+>> Natural Language Processing,
+>> Machine Learning,
+>> Artificial Neural Network,
+>> Convolutional Neural Network,
